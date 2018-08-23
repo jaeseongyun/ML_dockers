@@ -13,7 +13,7 @@ c.NotebookApp.open_browser = False
 c.NotebookApp.password = u'{}'
 # It is a good idea to put it on a known, fixed port
 c.NotebookApp.port = 8888
-c.NotebookApp.notebook_dir = u'/'
+c.NotebookApp.notebook_dir = u'/root/'
 c.NotebookApp.allow_root = True
 """.format(pwsha)
 
